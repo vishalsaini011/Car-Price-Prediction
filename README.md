@@ -24,6 +24,13 @@ The project also includes an interactive Power BI dashboard for data visualizati
 
 ---
 
+## ⚙️ Setup Instructions
+1.Clone/download the GitHub repository.
+2.Install the required Python libraries: pandas, numpy, matplotlib, seaborn, and scikit-learn.
+3.Open Car_Price_Prediction.ipynb in Jupyter Notebook or VS Code.
+4.Run all cells to perform data cleaning, EDA, model training, and evaluation.
+5.Open the Power BI dashboard to explore the visualizations.
+
 ## 🗂️ Dataset
 
 The dataset contains information about used cars and their selling prices.
@@ -151,3 +158,6 @@ The Random Forest model after outlier treatment was selected as the final model 
 **Vishal**
 
 Machine Learning / Data Science Project
+
+## GitHub repository link
+https://github.com/vishalsaini011/Car-Price-Prediction
